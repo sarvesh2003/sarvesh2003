@@ -1,7 +1,6 @@
 ### Hi I am Sarvesh 👋
 
-- 🔭 I’m currently working on Portfolio Website
-- 🌱 I’m currently learning Web development 
+- 🔭 I’m currently working on none of the projects
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Documentations
 - 💬 Ask me about Machine learning and Deep learning
