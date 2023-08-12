@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Documentations
-- 💬 Ask me about Machine learning and Deep learning
+- 💬 Ask me anything about Computer Science
 - 📫 How to reach me : [sarvesh-e](https://www.linkedin.com/in/sarvesh-e)
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I am using Job sequencing (Greedy algorithm) to manage my time and work efficiently
